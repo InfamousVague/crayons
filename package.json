@@ -1,0 +1,26 @@
+{
+  "name": "crayons",
+  "version": "1.0.0",
+  "description": "Easily console.log colors in your browser!",
+  "main": "crayons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wski/crayons.git"
+  },
+  "keywords": [
+    "crayons",
+    "console",
+    "log",
+    "colors",
+    "browser"
+  ],
+  "author": "wski <contact.mattdylan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wski/crayons/issues"
+  },
+  "homepage": "https://github.com/wski/crayons"
+}
